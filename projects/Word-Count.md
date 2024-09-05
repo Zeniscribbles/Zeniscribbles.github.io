@@ -1,23 +1,19 @@
 ---
 layout: project
 type: project
-image: img/boot.png
+image: img/unduextrois.png
 title: "Word Counter!"
 date: 2024-02-05
 published: true
 labels:
   - GitHub
-summary: "A student project where the goal is to write a word counter that mimic Linux word counter. It won’t do everything the Linux wc does,
-          but the process of writing this program will get us into the complexities of C and, in particular file I/O."
+summary: "A personal from scratch version of Linux word count. A EE491F Software Reverse Engineering project from Mark Nelson"
 ---
 
 SRE Lab 3 - wc
 ==============
 
 un.. deux.. trois.. CAT!
-
-![Mouse N Cat](.images/wc_large.png)
-
 
 | **Estimated time to complete** | 2-3 hours | **Prerequisites** | Lab 2 - Catnap                          |
 |--------------------------------|-----------|-------------------|-----------------------------------------|
