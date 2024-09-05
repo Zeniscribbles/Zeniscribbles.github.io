@@ -11,25 +11,24 @@ summary: "A guided student course for learning the essentials of x86 architectur
 ---
 
 <hr>
-
 <pre>
 Operating System From Scratch** is a student project focused on writing a 64-bit operating system from scratch for the x86 architecture. The course provides a hands-on approach to understanding key concepts in OS development.
 
 Expected Student Outcomes:
-* Understand real mode
-* Understand protected mode and long mode
-* Handle interrupts and exceptions in 64-bit mode
-* Write an OS kernel using assembly and C code
-* Implement a print function to display characters on the screen
-* Build a memory manager using x86 paging
-* Develop a timer handler for process management
-* Create a process manager to handle scheduling and state transitions
-* Implement a system call module for user programs
-* Write a PS/2 keyboard driver
-* Develop a simple console for interacting with the OS kernel
-* Create a basic file system module supporting FAT16
-</pre>
+- Understand real mode
+- Understand protected mode and long mode
+- Handle interrupts and exceptions in 64-bit mode
+- Write an OS kernel using assembly and C code
+- Implement a print function to display characters on the screen
+- Build a memory manager using x86 paging
+- Develop a timer handler for process management
+- Create a process manager to handle scheduling and state transitions
+- Implement a system call module for user programs
+- Write a PS/2 keyboard driver
+- Develop a simple console for interacting with the OS kernel
+- Create a basic file system module supporting FAT16
 
+</pre>
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/Zeniscribbles/Operating-System-From-Scratch.git"><i class="large github icon "></i>Operating System From Scratch</a>
