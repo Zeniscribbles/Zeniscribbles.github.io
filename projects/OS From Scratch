@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/boot.png
 title: "Operating System From Scratch"
 date: 2024-07-04
 published: true
