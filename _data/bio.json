@@ -4,9 +4,8 @@
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "aze@hawaii.edu",
-    "phone": "N/A",
     "website": "https://Zeniscribbles.github.io",
-    "summary": "I am an Electrical and Computer Engineering student at the University of Hawaii at Manoa with a keen interest in operating systems and computer architecture. Currently, I am expanding my knowledge in cyber and network security."
+    "summary": "I am an Electrical and Computer Engineering student at the University of Hawaii at Manoa with a keen interest in operating systems and computer architecture. Currently, I am expanding my knowledge in cyber and network security.",
     "location": {"city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "GitHub", "username": "Zeniscribbles", "URL": "http://github.com/changeme" },
@@ -33,15 +32,13 @@
   "Education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Electrical and Computer Engineering (Graduation Date: May 2025)"
+      "area": "Electrical and Computer Engineering (Graduation Date: May 2025)",
       "study type": "B.S.",
       "startDate": "2020-08-20",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
-  
   "references": [
     {
       "name": "Available upon request"
