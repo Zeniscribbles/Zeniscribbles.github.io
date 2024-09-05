@@ -13,11 +13,9 @@ summary: "A guided student course for learning the essentials of x86 architectur
 <hr>
 
 <pre>
+Operating System From Scratch** is a student project focused on writing a 64-bit operating system from scratch for the x86 architecture. The course provides a hands-on approach to understanding key concepts in OS development.
 
-**Operating System From Scratch** is a student project focused on writing a 64-bit operating system from scratch for the x86 architecture. The course provides a hands-on approach to understanding key concepts in OS development.
-
-### Expected Student Outcomes:
-
+Expected Student Outcomes:
 * Understand real mode
 * Understand protected mode and long mode
 * Handle interrupts and exceptions in 64-bit mode
