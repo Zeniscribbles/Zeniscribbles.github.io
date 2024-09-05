@@ -1,43 +1,32 @@
-| **Field**     | **Value**                                            |
-|---------------|------------------------------------------------------|
-| **Layout**    | `project`                                            |
-| **Type**      | `project`                                            |
-| **Image**     |                                                      |
-| **Title**     | "Operating System From Scratch"                      |
-| **Date**      | `2024-07-12`                                         |
-| **Published** | `true`                                               |
-| **Labels**    | `GitHub`                                             |
-| **Summary**   | "A guided student course for learning the essentials |
-|               |  of x86 architecture and low-level programming as you|
-|               |  develop a small, functional OS step-by-step.."      |
+---
+layout: project
+type: project
+image: img/operating-system/operating-system-square.png
+title: "Operating System From Scratch"
+date: 2024-07-12
+published: true
+labels:
+  - GitHub
+summary: "A guided student course for learning the essentials of x86 architecture and low-level programming as you develop a small, functional OS step-by-step."
+---
 
+<img class="img-fluid" src="../img/operating-system/operating-system-header.png">
 
-# Operating Systems From Scratch
-Student Project: Writing a 64-bit operating system - for the x86 architecture from scratch. 
+**Operating System From Scratch** is a student project focused on writing a 64-bit operating system from scratch for the x86 architecture. The course provides a hands-on approach to understanding key concepts in OS development.
 
-# Expected Student Outcome:
-### How to build a simple operating system for the x86 architecture.
+### Expected Student Outcomes:
 
-   * Understand real mode
+* Understand real mode
+* Understand protected mode and long mode
+* Handle interrupts and exceptions in 64-bit mode
+* Write an OS kernel using assembly and C code
+* Implement a print function to display characters on the screen
+* Build a memory manager using x86 paging
+* Develop a timer handler for process management
+* Create a process manager to handle scheduling and state transitions
+* Implement a system call module for user programs
+* Write a PS/2 keyboard driver
+* Develop a simple console for interacting with the OS kernel
+* Create a basic file system module supporting FAT16
 
-   * Understand protected mode and long mode
-
-   * How to handle interrupts and exceptions in the 64-bit mode
-
-   * How to write OS kernel with the assembly code and C code
-
-   * Be able to write print function to print characters on the screen
-
-   * Be able to build a memory manager using an x86 paging mechanism
-
-   * How to write a timer handler for the process manager
-
-   *  How to build a process manager to schedule processes and change them among different states (sleep, ready, killed)
-
-   *  How to implement a system call module to make user programs run in the system
-
-   * Write a keyboard driver (PS/2)
-
-   * Write a simple console and interact with the OS kernel using commands
-
-   * Write a simple file system module that supports reading fat16 system.
+Source: [GitHub Repository](https://github.com/jogarces/ics-313-text-game)
