@@ -1,1 +1,10 @@
-
+| **Field**     | **Value**                                            |
+|---------------|------------------------------------------------------|
+| **Layout**    | `project`                                            |
+| **Type**      | `project`                                            |
+| **Image**     | `img/cotton/cotton-square.png`                       |
+| **Title**     | "Cotton"                                             |
+| **Date**      | `2014-04-12`                                         |
+| **Published** | `true`                                               |
+| **Labels**    | `Lisp`, `GitHub`                                     |
+| **Summary**   | "A text adventure game I developed for ICS 313."     |
