@@ -11,8 +11,6 @@ summary: "A guided student course for learning the essentials of x86 architectur
           programming as you develop a small, functional OS step-by-step."
 ---
 
-<a href="https://github.com/Zeniscribbles/Operating-System-From-Scratch" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; text-align: center; border-radius: 5px; text-decoration: none;">Visit Repository</a>
-
 Operating System From Scratch** is a student project focused on writing a 64-bit operating system 
 from scratch for the x86 architecture. The course provides a hands-on approach to understanding key 
 concepts in OS development.
@@ -30,5 +28,7 @@ Expected Student Outcomes:
 - Write a PS/2 keyboard driver
 - Develop a simple console for interacting with the OS kernel
 - Create a basic file system module supporting FAT16
+
+<a href="https://github.com/Zeniscribbles/Operating-System-From-Scratch" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; text-align: center; border-radius: 5px; text-decoration: none;">Visit Repository</a>
 
 Source: <a href="https://github.com/Zeniscribbles/Operating-System-From-Scratch.git"><i class="large github icon "></i>Operating System From Scratch</a>
