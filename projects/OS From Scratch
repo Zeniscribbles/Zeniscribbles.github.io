@@ -2,9 +2,11 @@
 |---------------|------------------------------------------------------|
 | **Layout**    | `project`                                            |
 | **Type**      | `project`                                            |
-| **Image**     | `img/cotton/cotton-square.png`                       |
+| **Image**     |                |
 | **Title**     | "Operating System From Scratch"                      |
 | **Date**      | `2024-07-12`                                         |
 | **Published** | `true`                                               |
 | **Labels**    | `GitHub`                                             |
-| **Summary**   | "A text adventure game I developed for ICS 313."     |
+| **Summary**   | "A guided student course for learning the essentials |
+|               |  of x86 architecture and low-level programming as you|
+|               |  develop a small, functional OS step-by-step.."      |
