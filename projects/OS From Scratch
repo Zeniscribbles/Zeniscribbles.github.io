@@ -3,8 +3,8 @@
 | **Layout**    | `project`                                            |
 | **Type**      | `project`                                            |
 | **Image**     | `img/cotton/cotton-square.png`                       |
-| **Title**     | "Cotton"                                             |
-| **Date**      | `2014-04-12`                                         |
+| **Title**     | "Operating System From Scratch"                      |
+| **Date**      | `2024-07-12`                                         |
 | **Published** | `true`                                               |
-| **Labels**    | `Lisp`, `GitHub`                                     |
+| **Labels**    | `GitHub`                                             |
 | **Summary**   | "A text adventure game I developed for ICS 313."     |
