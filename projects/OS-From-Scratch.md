@@ -31,4 +31,3 @@ Expected Student Outcomes:
 
 <a href="https://github.com/Zeniscribbles/Operating-System-From-Scratch" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; text-align: center; border-radius: 5px; text-decoration: none;">Visit Repository</a>
 
-Source: <a href="https://github.com/Zeniscribbles/Operating-System-From-Scratch.git"><i class="large github icon "></i>Operating System From Scratch</a>
