@@ -9,8 +9,6 @@ labels:
   - Electrical and Computer Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 ## Background -
 As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
 
