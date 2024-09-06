@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Self Growth"
+title: "Self Improvement"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-06
 published: true
