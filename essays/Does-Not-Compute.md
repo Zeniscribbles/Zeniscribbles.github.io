@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Background -
-As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
+  As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
 
 It may do the reader well to explain why I am not without bias. My coding journey began with Python, a language that is a great 
 
@@ -26,7 +26,7 @@ only fiddled in Python, this warning became the theme of my experience learning 
 
 
 ## Reflection -
-I can’t explain how quickly I fell in love with the C language, and yet nothing has exceeded the child like curiosity and excitement I 
+  I can’t explain how quickly I fell in love with the C language, and yet nothing has exceeded the child like curiosity and excitement I 
 
 experienced when I began learning about Computer Architecture and Operating Systems. So you see, I cannot honestly say that I have 
 
@@ -38,7 +38,7 @@ details of software development and web design.
 
 
 ## The Upside -
-It has often eluded me why the University of Hawaii at Manoa included ICS 314 in our curriculum. It was not until recently that I learned 
+  It has often eluded me why the University of Hawaii at Manoa included ICS 314 in our curriculum. It was not until recently that I learned 
 
 it was the best possible substitute for the systems programming course that is no longer offered. With that being said, I am delighted to 
 
@@ -53,7 +53,7 @@ class sessions and assignments for students to begin developing their profession
 
 
 ## Why It Matters -
-ICS 314 isn’t just about refining your coding skills, it also incorporates the reality of being a professional in the industry and the 
+  ICS 314 isn’t just about refining your coding skills, it also incorporates the reality of being a professional in the industry and the 
 
 expectations it carries. On a more technical note, the choice of languages to learn in this course are concurrent with current industry practices. 
 
