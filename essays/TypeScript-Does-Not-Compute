@@ -1,54 +1,61 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "TypeScript Does Not Compute"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-09-05
 published: true
 labels:
-  - Engineering
+  - Electrical and Computer Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Background: As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+It may do the reader well to explain why I am not without bias. My coding journey began with Python, a language that is a great 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+starting point for those seeking basics, without the constraints of more complicated or low level programming languages. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+As an ECE major, I continued on in my journey and learned posix C, posix C++, MIPS/x86-64 assembly, and the bane of every engineer's existence; Matlab. 
 
-Here's what I think: the difficult things will always be difficult.
+My world is filled with the intricacies of navigating data and memory management through the mystical and powerful pointer. I was once told that, 
 
-## In the context of programming
+“The C coding language is sharp. If you’re not careful you will cut yourself” [1]. For a student who only fiddled in Python, this warning became the 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+theme of my experience learning posix C/C++. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## Reflection -
+I can’t explain how quickly I fell in love with the C language, and yet nothing has exceeded the child like curiosity and excitement I experienced
 
-## In the context of engineering
+when I began learning about Computer Architecture and Operating Systems. So you see, I cannot honestly say that I have enjoyed my experience with TypeScript
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+thus far. While I may never fully appreciate the significance of TypeScript in software engineering, I firmly believe it is best suited for those professionals 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+who dedicate their careers to mastering the more finer, often trivial, details of software development and web design.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## The Upside -
+It has often eluded me why the University of Hawaii at Manoa included ICS 314 in our curriculum. It was not until recently that I learned it was the best
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+possible substitute for the systems programming course that is no longer offered. With that being said, I am delighted to express that although TypeScript 
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+is not my cup of tea, ICS 314 does have extensive value as a course. The UH Manoa Engineering Department does a wonderful job providing endless amounts of workshops 
 
-Relationships have always been difficult, and by nature will continue to be so.
+and seminars on developing our professional portfolio and leadership skills. However, our schedules often conflict with these amazing resources. I greatly 
 
-## Okay!
+appreciate that ICS 314 has thoughtfully allocated time within class sessions and assignments for students to begin developing their professional presence. 
 
-So back to the original premise; why is being one of the club officers so difficult?
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
 
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+## Why It Matters -
+ICS 314 isn’t just about refining your coding skills, it also incorporates the reality of being a professional in the industry and the expectations it carries. 
+
+On a more technical note, the choice of languages to learn in this course are concurrent with current industry practices. Being up to date with industry practices 
+
+contributes to our quickly evolving technology, and is greatly encouraged by said industry. I believe that there is a balance to be achieved between academia and 
+
+application and I find it very refreshing that ICS 314 has considered and implemented this ideology. Overall, I may find TypeScript to be a nightmare, but that is 
+
+only my opinion. ICS 314 itself is very beneficial to any student who is ready to take their future career more seriously.
