@@ -66,5 +66,5 @@ this ideology. Overall, I may find TypeScript to be a nightmare, but that is onl
 is ready to take their future career more seriously.
 
 ### References -
-  1. “EE205 C is dangerous: Procedural vs. Object Oriented Programming” Professor Mark Nelson Course Resources Document for EE205,
-     University of Hawaii, Spring 2023
+1. “EE205 C is dangerous: Procedural vs. Object Oriented Programming” Professor Mark Nelson Course Resources Document for EE205,
+   University of Hawaii, Spring 2023
