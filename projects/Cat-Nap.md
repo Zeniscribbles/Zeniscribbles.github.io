@@ -8,7 +8,7 @@ published: true
 labels:
   - GitHub
 summary: "A countdown timer that prints the number of days, minutes and seconds from some fixed (hardcoded) date.
-          A EE491F Software Reverse Engineering project with Dr. Mark Nelson"
+          A EE491F Software Reverse Engineering project with Professor Mark Nelson"
 ---
 SRE Lab 2 Catnap
 ================
