@@ -9,7 +9,7 @@ labels:
   - Electrical and Computer Engineering
 ---
 
-## Background -
+## Background 
   As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
 
 It may do the reader well to explain why I am not without bias. My coding journey began with Python, a language that is a great 
@@ -25,7 +25,7 @@ pointer. I was once told that, “The C coding language is sharp. If you’re no
 only fiddled in Python, this warning became the theme of my experience learning posix C/C++. 
 
 
-## Reflection -
+## Reflection 
   I can’t explain how quickly I fell in love with the C language, and yet nothing has exceeded the child like curiosity and excitement I 
 
 experienced when I began learning about Computer Architecture and Operating Systems. So you see, I cannot honestly say that I have 
@@ -37,7 +37,7 @@ I firmly believe it is best suited for those professionals who dedicate their ca
 details of software development and web design.
 
 
-## The Upside -
+## The Upside 
   It has often eluded me why the University of Hawaii at Manoa included ICS 314 in our curriculum. It was not until recently that I learned 
 
 it was the best possible substitute for the systems programming course that is no longer offered. With that being said, I am delighted to 
