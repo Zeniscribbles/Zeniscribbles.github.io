@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/boot.png
+image: img/catNap.png
 title: "Cat Nap"
 date: 2024-01-05
 published: true
