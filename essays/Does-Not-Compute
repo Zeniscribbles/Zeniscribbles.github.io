@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "TypeScript Does Not Compute"
+title: "Does Not Compute"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Background: As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
+* Background: As an Electrical and Computer Engineering major it is a difficult task to give an unbiased opinion about TypeScript. 
 
 It may do the reader well to explain why I am not without bias. My coding journey began with Python, a language that is a great 
 
