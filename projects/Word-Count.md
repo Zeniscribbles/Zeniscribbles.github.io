@@ -7,7 +7,7 @@ date: 2024-02-05
 published: true
 labels:
   - GitHub
-summary: "A personal from scratch version of Linux word count. A EE491F Software Reverse Engineering project from Mark Nelson"
+summary: "A personal from scratch version of Linux word count. A EE491F Software Reverse Engineering project with Professor Mark Nelson"
 ---
 
 SRE Lab 3 - wc
