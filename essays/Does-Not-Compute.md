@@ -64,3 +64,7 @@ that there is a balance to be achieved between academia and application and I fi
 this ideology. Overall, I may find TypeScript to be a nightmare, but that is only my opinion. ICS 314 itself is very beneficial to any student who 
 
 is ready to take their future career more seriously.
+
+### References -
+  1. “EE205 C is dangerous: Procedural vs. Object Oriented Programming” Professor Mark Nelson Course Resources Document for EE205,
+     University of Hawaii, Spring 2023
