@@ -14,6 +14,7 @@ labels:
 
 ## So the story goes...
 
+
    Though standards may seem trivial or inconsequential, they are what you would consider good bone structure  
    
    upon which quality code is built, like the foundation of a well-constructed house. As a novice developer,  
@@ -26,7 +27,10 @@ labels:
    
    preference; but rather plays a crucial role in coding standards.
 
+   
+
 ## "Style, Schmyle"
+
 
    Fret not, dear reader, for if you remain unconvinced; allow me to enlighten you. Good coding practices or  
    
@@ -38,6 +42,7 @@ labels:
    
    or add new features to the codebase.
 
+   
    If you’re wondering how developers remember all these standards, especially given the variation between  
    
    languages, you’re not alone. Linters are a developer's best friend; they are designed to enforce specific  
@@ -47,8 +52,11 @@ labels:
    expected standards. The code you develop will rarely be for your eyes alone — coding standards make version  
    
    control and collaboration far more seamless.
+   
+   
 
 ## Isn't That Convenient?
+
 
    You might be thinking that coding standards sound more like a convenience than a necessity. However, they  
    
