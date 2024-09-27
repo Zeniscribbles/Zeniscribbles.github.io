@@ -40,18 +40,15 @@ labels:
    
    By adhering to coding standards, your code tells a better story for future developers who need to refactor  
    
-   or add new features to the codebase.
-
+   or add new features to the codebase. If you’re wondering how developers remember all these standards, 
    
-   If you’re wondering how developers remember all these standards, especially given the variation between  
+   especially given the variation between  languages, you’re not alone. Linters are a developer's best friend; 
    
-   languages, you’re not alone. Linters are a developer's best friend; they are designed to enforce specific  
+   they are designed to enforce specific coding standards and will, quite literally, yell at you in bright red
    
-   coding standards and will, quite literally, yell at you in bright red lettering when you stray from the  
+   lettering when you stray from the expected standards. The code you develop will rarely be for your eyes
    
-   expected standards. The code you develop will rarely be for your eyes alone — coding standards make version  
-   
-   control and collaboration far more seamless.
+   alone — coding standards make version control and collaboration far more seamless.
    
    
 
