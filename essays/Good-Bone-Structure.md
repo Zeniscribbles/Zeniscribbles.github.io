@@ -14,7 +14,7 @@ labels:
 
 ## So the story goes...
 
-Though standards may seem trivial or inconsequential, they are what you would consider good bone structure 
+  Though standards may seem trivial or inconsequential, they are what you would consider good bone structure 
 
 upon which quality code is built, like the foundation of a well-constructed house. As a novice developer, 
 
@@ -27,9 +27,10 @@ take on larger, more complex coding projects, you’ll come to realize that styl
 preference; but rather a crucial role in coding standards.
 
 
+
 ## "Style, Schmyle"
 
-Fret not, dear reader, for if you remain unconvinced; allow me to enlighten you. Good coding practices 
+  Fret not, dear reader, for if you remain unconvinced; allow me to enlighten you. Good coding practices 
 
 or standards is the expectation for production-level code, and there are compelling reasons for this.
 
@@ -39,7 +40,7 @@ adhering to coding standards your code tells a better story for future developer
 
 or add new features to the codebase. 
 
-If you’re wondering how developers remember all these standards, especially given the variation between
+  If you’re wondering how developers remember all these standards, especially given the variation between
 
 languages, you’re not alone. Linters are a developer's best friend; they are designed to enforce
 
@@ -50,9 +51,10 @@ stray from the expected standards. The code you develop will rarely be for your 
 standards make version control and collaboration far more seamless. 
 
 
+
 ## Isn't That Convenient?
 
-You might be thinking that coding standards sound more like a convenience than a necessity. However, 
+  You might be thinking that coding standards sound more like a convenience than a necessity. However, 
 
 they are the backbone of safety, security, portability, and reliability of a project. Standards 
 
