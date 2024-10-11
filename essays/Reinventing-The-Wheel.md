@@ -17,7 +17,7 @@ As a novice software developer, you may have wondered about the origin of UI fra
 
 you so tediously typed yourself into an oblivion of intricate complexities—Bootstrap 5, 
 
-or perhaps React? 
+or perhaps React? <br></br>
 
 
 Here’s the bad news: while UI frameworks create simplicity, the learning curve can be steep. 
@@ -32,10 +32,10 @@ can be slowed by larger file sizes and unnecessary code, even in small applicati
 
 technology in a constant state of flux, UI frameworks can easily become outdated, leading 
 
-to stagnation for developers who fly too close to the sun with any single framework. 
+to stagnation for developers who fly too close to the sun with any single framework. <br>
 
 
-Allow me to soothe your mind, dear reader.
+Allow me to soothe your mind, dear reader.<br><
 
 
 UI Frameworks were born from the necessity to streamline and standardize the process of 
@@ -46,7 +46,7 @@ won’t cut it. They’re static by nature—the bone structure of web pages. Th
 
 interactive or dynamic features, nor can they create reusable components—a core practice 
 
-beloved in the software world. Though, you’ve likely realized this by now. 
+beloved in the software world. Though, you’ve likely realized this by now. <br>
 
 
 
@@ -56,13 +56,11 @@ avoiding the reinvention of the wheel. UI Frameworks offer efficiency and speed,
 
 cross-browser compatibility, responsiveness, and, in a world of endless web pages, 
 
-maintainability.
+maintainability.<br>
 
 
 Drawbacks? Indeed. But it's the price we pay for the crème de la crème in our digital world.
 
 So remember, dear reader, there is rhyme and reason to UI frameworks. Keep reaching for 
 
-newer technologies, and don’t fear the 
-
-learning curve—mastery comes with time.
+newer technologies, and don’t fear the learning curve—mastery comes with time.
