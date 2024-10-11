@@ -39,18 +39,17 @@ to stagnation for developers who fly too close to the sun with any single framew
 
 ## Good News
 
-Allow me to soothe your mind, dear reader.
+Allow me to soothe your mind, dear reader. UI Frameworks were born from the necessity to 
 
+streamline and standardize the process of building graphical user interfaces, or GUIs. 
 
-UI Frameworks were born from the necessity to streamline and standardize the process of 
+Yes, you read that right: HTML and CSS alonewon’t cut it. They’re static by nature—the bone 
 
-building graphical user interfaces, or GUIs. Yes, you read that right: HTML and CSS alone
+structure of web pages. They can’t handle interactive or dynamic features, nor can they 
 
-won’t cut it. They’re static by nature—the bone structure of web pages. They can’t handle 
+create reusable components—a core practice beloved in the software world. Though, you’ve 
 
-interactive or dynamic features, nor can they create reusable components—a core practice 
-
-beloved in the software world. Though, you’ve likely realized this by now. <br><br>
+likely realized this by now. 
 
 
 ## It Matters
@@ -61,7 +60,7 @@ avoiding the reinvention of the wheel. UI Frameworks offer efficiency and speed,
 
 cross-browser compatibility, responsiveness, and, in a world of endless web pages, 
 
-maintainability.<br><br>
+maintainability.
 
 
 Drawbacks? Indeed. But it's the price we pay for the crème de la crème in our digital world.
