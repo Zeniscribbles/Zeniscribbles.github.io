@@ -33,7 +33,7 @@ can be slowed by larger file sizes and unnecessary code, even in small applicati
 
 technology in a constant state of flux, UI frameworks can easily become outdated, leading 
 
-to stagnation for developers who fly too close to the sun with any single framework. 
+to stagnation for developers who fly too close to the sun with any single framework.<br><br> 
 
 
 
@@ -49,7 +49,7 @@ structure of web pages. They can’t handle interactive or dynamic features, nor
 
 create reusable components—a core practice beloved in the software world. Though, you’ve 
 
-likely realized this by now. 
+likely realized this by now.<br><br>
 
 
 ## It Matters
@@ -60,7 +60,7 @@ avoiding the reinvention of the wheel. UI Frameworks offer efficiency and speed,
 
 cross-browser compatibility, responsiveness, and, in a world of endless web pages, 
 
-maintainability.
+maintainability.<br><br>
 
 
 Drawbacks? Indeed. But it's the price we pay for the crème de la crème in our digital world.
