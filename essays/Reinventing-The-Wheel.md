@@ -43,7 +43,7 @@ Allow me to soothe your mind, dear reader. UI Frameworks were born from the nece
 
 streamline and standardize the process of building graphical user interfaces, or GUIs. 
 
-Yes, you read that right: HTML and CSS alonewon’t cut it. They’re static by nature—the bone 
+Yes, you read that right: HTML and CSS alone won’t cut it. They’re static by nature—the bone 
 
 structure of web pages. They can’t handle interactive or dynamic features, nor can they 
 
