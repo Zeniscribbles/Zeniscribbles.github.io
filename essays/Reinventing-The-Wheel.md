@@ -17,7 +17,7 @@ As a novice software developer, you may have wondered about the origin of UI fra
 
 you so tediously typed yourself into an oblivion of intricate complexities—Bootstrap 5, 
 
-or perhaps React? 
+or perhaps React?<br><br> 
 
 ## Bad News
 
