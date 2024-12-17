@@ -59,7 +59,6 @@ Although, the website design WODs were pretty fun and created a healthy competit
 I didn’t use AI in the normal sense, but I did use Grammarly. I personally really enjoyed the essays. I love writing, and I love telling a good story even more. I took the opportunity to write in the most whimsical and magical way possible.
 
 ---
-
 ## Final Project
 
 Probably would not have survived without AI for the more complicated back-end tasks. AI was useful for finding solutions and discussing errors that were being experienced.
