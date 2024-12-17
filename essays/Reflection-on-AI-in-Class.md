@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Reflection on AI use"
+title: "A Reflection on AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
@@ -12,6 +12,7 @@ labels:
   - Coding Standards
   - AI in Class
 ---
+
 # Ah yes, the dreaded dilemma of using AI in education
 
 It’s quite the dilemma indeed, how much is too much, how little is not enough? I agree, AI can be detrimental to learning when abused.
