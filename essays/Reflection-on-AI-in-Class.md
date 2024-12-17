@@ -1,8 +1,43 @@
+---
+layout: essay
+type: essay
+title: "A Reflection on AI use"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-16
+published: true
+labels:
+  - Electrical and Computer Engineering
+  - Software Reverse Engineering
+  - Good Coding Practices
+  - Coding Standards
+  - AI in Class
+---
 # Ah yes, the dreaded dilemma of using AI in education
 
-It’s quite the dilemma indeed, how much is too much, how little is not enough? I agree, AI can be detrimental to learning when abused. Unfortunately, our digital world is trekking on with or without us. Technology is outpacing the academic world, and students are racing to keep up with the expectation of future employers. 
+It’s quite the dilemma indeed, how much is too much, how little is not enough? I agree, AI can be detrimental to learning when abused.
 
-So here is what I think: study smarter, not harder, and become a lifelong learner. Take my experience with a grain of salt, from the perspective of an Electrical and Computer Engineering student taking an ICS course in software development:
+Unfortunately, our digital world is trekking on with or without us. Technology is outpacing the academic world, and students are racing 
+
+to keep up with the expectations of future employers.<br><br>
+
+AI did impact my learning, in a beneficial way. It served me well as a guide and tutor. AI is already well and healthy in our real world, 
+
+a great example of this is Google’s recent funded university project for using AI as a tool in cybersecurity. How useful AI is in 
+
+addressing real-world software development is something different entirely. In my experience it can be very hit and miss, but that could 
+
+just be my experience. Using AI did become challenging for in class WODs. I used AI as a tutor and teacher, so when I needed quick answers
+
+I usually got 20 suggestions of different approaches. Useful for learning and outside of class, but not in a timed WOD. Unfortunately, 
+
+I do think that AI will eventually outpace software development, and so the academic world should take a dive and change its attention 
+
+to technology for advancing and maintaining said AI. Easier said than done, but a necessity for future ICS students to have successful 
+
+careers.  So here is what I think, study smarter not harder and become a lifelong learner. Take my experience with a grain of salt, from the 
+
+perspective of an Electrical and Computer Engineering student taking an ICS course in software development:<br><br>
+
 
 ## Experience WODs e.g. E18
 
