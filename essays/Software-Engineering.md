@@ -57,35 +57,35 @@ A perfect example is Aerospace and Defense. In mission-critical systems, CM ensu
 
 software-hardware dependencies are tracked, monitored for vulnerabilities or compromises, and compliant with regulations.
 
-Oh Ethics, the topic that both horrified you and intrigued you all at the same time. Do you remember the AI self-driving car 
+Oh Ethics, the topic that both horrified you and intrigued you all at the same time.<br><br>
 
-ethics quiz, where no matter what you answer people still died? Ethics in software engineering often revolves around such 
+Do you remember the AI self-driving car ethics quiz, where no matter what you answer people still died? Ethics in software 
 
-complex decisions, where trade-offs and unintended consequences must be considered carefully. One real-world example that 
+engineering often revolves around such complex decisions, where trade-offs and unintended consequences must be considered 
 
-embodies these challenges is the infamous Stuxnet malware, first discovered in 2010. Recognized as the first cyber weapon, 
+carefully. One real-world example that embodies these challenges is the infamous Stuxnet malware, first discovered in 2010. 
 
-Stuxnet exploited multiple zero-day vulnerabilities and demonstrated how software could be used to achieve real-world 
+Recognized as the first cyber weapon, Stuxnet exploited multiple zero-day vulnerabilities and demonstrated how software 
 
-destruction. It manipulated industrial control systems to subtly alter centrifuge operations, causingphysical damage 
+could be used to achieve real-world destruction. It manipulated industrial control systems to subtly alter centrifuge 
 
-while masking its presence. But why is Stuxnet more than just a cybersecurity story? For software engineers, it highlights
+operations, causingphysical damage while masking its presence. But why is Stuxnet more than just a cybersecurity story? 
 
-the immense power—and responsibility—we hold. Stuxnet’s creation and deployment raise questions about accountability, 
+For software engineers, it highlights the immense power—and responsibility—we hold. Stuxnet’s creation and deployment 
 
-transparency, and the ethical boundaries of software use. When building software, engineers must consider: Who bears 
+raise questions about accountability, transparency, and the ethical boundaries of software use. When building software, 
 
-responsibility for unintended consequences? How do we balance innovation with potential misuse? Stuxnet also underscores 
+engineers must consider: Who bears responsibility for unintended consequences? How do we balance innovation with potential 
 
-the critical importance of security in software design. A single vulnerability in code can have cascading effects, leading 
+misuse? Stuxnet also underscores the critical importance of security in software design. A single vulnerability in code 
 
-to ethical dilemmas that ripple across industries and even nations. The lessons of Stuxnet extend to every software
+can have cascading effects, leading to ethical dilemmas that ripple across industries and even nations. The lessons of 
 
-engineering project, urging us to think about the potential impact of our work. As engineers, we are not just writing 
+Stuxnet extend to every software engineering project, urging us to think about the potential impact of our work. As
 
-lines of code; we are shaping tools that could influence lives, economies, and societies. The responsibility to build 
+engineers, we are not just writing lines of code; we are shaping tools that could influence lives, economies, and societies. 
 
-secure, transparent, and ethical systems cannot be overstated.<br><br>
+The responsibility to build secure, transparent, and ethical systems cannot be overstated.<br><br>
 
 
 Through these lessons, software engineering reveals itself as a discipline far greater than web development—a craft of precision, 
