@@ -36,7 +36,7 @@
       "study type": "B.S.",
       "startDate": "2020-08-20",
       "endDate": "Present",
-      "courses": []
+      "courses": [ "ECE160 Programming for Engineers", "ECE211 Basic Circuit Analysis I", "ECE213 Basic Circuit Analysis II", "ECE260 Introduction to Digital Design", "ECE315 Signal and System Analysis", "ECE323 Microelectronic Circuits I", "ECE324 Physical Electronics", "ECE342 Probability and Statistics", "ECE345 Linear Algebra for Engineers", "ECE361 Digital Systems and Computer Design", "ECE362 Discrete Mathematics", "ECE367 Data Structures and Algorithms", "ECE371 Engineering Electromagnetic I ", "ECE468 Operating Systems", "ECE491F Software Reverse Engineering", "ECE660 Computer Architecture I", "ICS314 Software Engineering" ]
     }
   ],
   "references": [
