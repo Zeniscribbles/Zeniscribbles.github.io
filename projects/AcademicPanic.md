@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/boot.png
+image: img/AcademicLogo.png
 title: "Academic Panic"
 date: 2024-12-20
 published: true
